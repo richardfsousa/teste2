@@ -1,1 +1,1 @@
-print("ola")
+x = int(input("ola"))
